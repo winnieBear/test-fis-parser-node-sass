@@ -1,0 +1,23 @@
+{
+  "name": "test-fis-parser-node-sass",
+  "version": "0.0.0",
+  "description": "test fis-parser-node-sass fix result",
+  "main": "index.js",
+  "scripts": {
+	  "build": "fis3 release -d ./output",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/winnieBear/test-fis-parser-node-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnieBear/test-fis-parser-node-sass/issues"
+  },
+  "homepage": "https://github.com/winnieBear/test-fis-parser-node-sass",
+  "dependencies": {
+    "fis-parser-node-sass": "git://github.com/winnieBear/fis-parser-node-sass.git"
+  }
+}
