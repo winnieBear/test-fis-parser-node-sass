@@ -4,7 +4,7 @@
   "description": "test fis-parser-node-sass fix result",
   "main": "index.js",
   "scripts": {
-  	"build": "fis3 release -d ./output",
+    "build": "fis3 release -d ./output",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
